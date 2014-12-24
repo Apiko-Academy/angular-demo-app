@@ -1,0 +1,22 @@
+{
+  "name": "angular-shop",
+  "version": "0.0.0",
+  "authors": [
+    "Taras <trsdln@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "~1.3.8",
+    "jquery": "~2.1.3",
+    "bootstrap": "~3.3.1",
+    "angular-route": "~1.3.8"
+  }
+}
