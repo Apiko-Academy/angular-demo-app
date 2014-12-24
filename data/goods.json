@@ -1,0 +1,37 @@
+[
+  {
+    "type": "t-shirt",
+    "size": "XL",
+    "color": "red",
+    "price": 50,
+    "photo": "http://lorempixel.com/100/100/fashion"
+  },
+  {
+    "type": "t-shirt",
+    "size": "L",
+    "color": "blue",
+    "price": 500,
+    "photo": "http://lorempixel.com/100/100/fashion"
+  },
+  {
+    "type": "t-shirt",
+    "size": "XL",
+    "color": "white",
+    "price": 50,
+    "photo": "http://lorempixel.com/100/100/fashion"
+  },
+  {
+    "type": "t-shirt",
+    "size": "XL",
+    "color": "red",
+    "price": 100,
+    "photo": "http://lorempixel.com/100/100/fashion"
+  },
+  {
+    "type": "t-shirt",
+    "size": "XL",
+    "color": "blue",
+    "price": 250,
+    "photo": "http://lorempixel.com/100/100/fashion"
+  }
+]
